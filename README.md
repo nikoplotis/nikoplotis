@@ -3,7 +3,7 @@
 ### Merhaba, ben Faruk! 👋
 Düzenlenecek.
 
-[![Mail Badge](https://img.shields.io/badge/gokerguner@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gokerguner@gmail.com)](mailto:nikoplotis@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/nikoplotis@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gokerguner@gmail.com)](mailto:nikoplotis@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikoplotis/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nikoplotis)
 
