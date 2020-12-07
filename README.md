@@ -1,5 +1,24 @@
-## Ben Kimim?
-* 9 yaşımda programlamaya code.org sitesi ile başladım. 11 yaşıma kadar code.org sitesinde eğitimleri alarak bir çok eğitimi bitirdim. Ardından Microsoft Açık Akademi sitesindeki C# eğitimleri ile ilgilendim. 6 aylık bir aradan sonra Arduino ile tanıştım. Yaptığım ilk proje ses komutuyla masa lambası açıp kapatmaktı. İlge İpek hocamın sayesinde Arduino’da kendimi geliştirdim. SİS (Sel İkaz Sistemi) adlı projem ile Teknofest’e katıldım. Ardından tasarım hakkındada bilgi edinmek istedim.İnternette gördüğüm eğlenceli fotoğraf editlemeleri çok hoşuma gittimişti.Kendim de yapmak istedim. Photoshop öğrenmeye giriştim, sonrasında ise Adobe programlarını öğrenmeye çalıştım (Premiere Pro, inDesign, Illustrator). Şuanda ise eeBrain Mini Startup'ımızda UI/UX Designer olarak görev alıyorum. 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=nikoplotis&show_icons=true">
 
-## Hangi teknolojileri kullanıyorum?
-* Python, Html-Css, Adobe XD, Figma, Adobe Photoshop, Adobe Illustrator, Adobe InDesign
+### Merhaba, ben Faruk! 👋
+Düzenlenecektir.
+
+[![Mail Badge](https://img.shields.io/badge/gokerguner@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gokerguner@gmail.com)](mailto:nikoplotis@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikoplotis/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nikoplotis)
+
+
+<!--
+**gokerguner/gokerguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
