@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=nikoplotis&show_icons=true">
 
 ### Merhaba, ben Faruk! 👋
-Düzenlenecektir.
+Düzenlenecek.
 
 [![Mail Badge](https://img.shields.io/badge/gokerguner@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gokerguner@gmail.com)](mailto:nikoplotis@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikoplotis/)
